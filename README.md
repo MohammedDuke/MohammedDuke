@@ -1,6 +1,6 @@
-### Hi there 👋
+<h4> Hey there! <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"></h4>
 
-
+I'm [Mohammed Ahmed](https://github.com/MohammedDuke) I'm an Junior Front End Developer
 
 
 Here are some ideas to get you started:
