@@ -35,5 +35,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<p align="center">
+
+  <div align="center">
+
+
+  ![Linkedin Badge](https://img.shields.io/badge/-mohammedahmed-blue?style=flat-     square&logo=Linkedin&logoColor=white&link=https)
+   
+   ![Medium Badge](https://img.shields.io/badge/-mohammedahmed-000000?style=flat&labelColor=000000&logo=Medium&link=https)
+   
+   ![Gmail Badge](https://img.shields.io/badge/-mohammedahmed-c14438?style=flat-square&logo=Gmail&logoColor=white&link=)
+   
+   ![Instagram Badge](https://img.shields.io/badge/-mohammedahmed-purple?style=flat&logo=instagram&logoColor=white&link=https)
+   
+   ![Facebook Badge](https://img.shields.io/badge/-mohammedahmed-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https)
+   
+     </div>
+  </p>
+
+
 
   
