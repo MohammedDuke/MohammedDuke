@@ -4,55 +4,17 @@ I'm [Mohammed Ahmed](https://github.com/MohammedDuke) I'm an Junior Front End De
 
 
 
-  **Languages and Tools:**
+  
+<h1 align="center">Hi 👋, I'm Mohammed Ahmed</h1>
+<h3 align="center">A frontend developer from Egypt</h3>
 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammed-ahmed-18072223b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammed-ahmed-18072223b/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/" height="30" width="40" /></a>
+</p>
 
-  <div align="center">
-  
-  
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code> 
-   
-   
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code> <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-   
-   <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
-   
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
 
-  </div>
-  </p>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Front End Mentor
-- 🌱 I’m currently learning Back End 
-- 👯 I’m looking to collaborate on Front End Developer
-- 🤔 I’m looking for help with Real Projects
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<p align="center">
-
-  <div align="center">
-
-
-  ![Linkedin Badge](https://img.shields.io/badge/-mohammedahmed-blue?style=flat-     square&logo=Linkedin&logoColor=white&link=https)
-   
-   ![Medium Badge](https://img.shields.io/badge/-mohammedahmed-000000?style=flat&labelColor=000000&logo=Medium&link=https)
-   
-   ![Gmail Badge](https://img.shields.io/badge/-mohammedahmed-c14438?style=flat-square&logo=Gmail&logoColor=white&link=)
-   
-   ![Instagram Badge](https://img.shields.io/badge/-mohammedahmed-purple?style=flat&logo=instagram&logoColor=white&link=https)
-   
-   ![Facebook Badge](https://img.shields.io/badge/-mohammedahmed-036be4?style=flat-square&logo=Facebook&logoColor=white&link=https)
-   
-     </div>
-  </p>
-
-
-
-  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedduke&show_icons=true&locale=en&layout=compact" alt="mohammedduke" /></p>
